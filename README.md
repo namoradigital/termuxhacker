@@ -6,4 +6,4 @@ Adalah tools sederhana yang dibuat untuk meningkatkan pengalaman pengguna Termux
 - git clone https://github.com/namoradigital/termuxhacker.git
 - cd termuxhacker
 - python umbrella.py
-- masukkan token
+- masukkan token = oh37dvlaqm9g4z8gd85v0bt1
