@@ -7,3 +7,4 @@ Adalah tools sederhana yang dibuat untuk meningkatkan pengalaman pengguna Termux
 - cd termuxhacker
 - python umbrella.py
 - masukkan token = oh37dvlaqm9g4z8gd85v0bt1
+tampilan termux anda seperti hacker proffesional
